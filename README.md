@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @manunaik0555
-- 👀 I’m interested in playing game
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+this is my first git lab program
