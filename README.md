@@ -1,5 +1,5 @@
 # 💫 About Me:
-Acer <br>e sport player <br>4th sem <br>Engineering student<br>
+Acer <br>e sport player <br>5th sem <br>Engineering student<br> unlocking all trophies ☠️
 
 
 ## 🌐 Socials:
