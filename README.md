@@ -12,7 +12,7 @@ Acer <br>e sport player <br>7th sem <br>Engineering student<br> unlocking all tr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manunaik0555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manunaik0555&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=manunaik0555&theme=radical&no-frame=true&no-bg=false&margin-w=5)
 
 
 
