@@ -3,7 +3,10 @@
 # Hi there, I'm Manu Naik! 👋
 
 ### 👨‍💻 Software Engineering Student | Full Stack Developer
-*8th Semester Engineering Student | Deep Committer*
+*MSc advanced data science 
+      🐺 | Deep Committer*
+      NCL 
+      UNITED KINGDOM 
 
 <p align="center">
   <a href="https://instagram.com/manu_naik_05">
