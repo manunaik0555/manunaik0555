@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Manu Naik! 👋
+# Hi there, I'm Manu Naik Kumar! 👋
 
 ### 👨‍💻 Software Engineering Student | Full Stack Developer
 *MSc advanced data science 
