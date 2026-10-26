@@ -27,7 +27,7 @@ I am a passionate engineering student focused on unlocking new skills and buildi
 
 * 🔭 I’m currently working on **Full Stack Web Development**
 * 🌱 I’m currently learning **Data Structures & Algorithms**
-* 🏆 Goals: **Unlocking all trophies** (in code and games)
+* 🏆 Goals: **Unlocking all trophies** 
 
 ---
 
@@ -71,5 +71,4 @@ I am a passionate engineering student focused on unlocking new skills and buildi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunaik0555&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-### 🏆 Trophies
 
